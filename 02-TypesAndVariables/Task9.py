@@ -1,0 +1,5 @@
+a = input("Enter Yr Name: ")
+b = input("Enter Yr SurName: ")
+print(a)
+print("Your Name Is: " + a)
+print(f"Yr Surname Is: {b} ")
